@@ -1,6 +1,6 @@
 <center> 
 
-## Programacion tareas y (ejercicios personales) 
+## Programación tareas y (ejercicios personales) 
 
 </center>
 
